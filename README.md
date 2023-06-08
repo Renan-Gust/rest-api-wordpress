@@ -8,4 +8,4 @@ Defina essas duas linhas no seu wp-config.php
 ```php
 define('JWT_AUTH_SECRET_KEY', 'your_token');
 define('JWT_AUTH_CORS_ENABLE', true);
-```php
+```
